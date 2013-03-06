@@ -1,10 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LaserBeamContoller.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\menu.js">
     <Files>
-      <File FileName="Assets\SpaceshipController.js" Line="83" Column="4" />
+      <File FileName="Assets\SpaceshipController.js" Line="28" Column="28" />
       <File FileName="Assets\BorderController.js" Line="1" Column="1" />
-      <File FileName="Assets\LaserBeamContoller.js" Line="25" Column="13" />
+      <File FileName="Assets\LaserBeamContoller.js" Line="1" Column="1" />
+      <File FileName="Assets\AsteroidGenerator.js" Line="1" Column="1" />
+      <File FileName="Assets\menu.js" Line="28" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

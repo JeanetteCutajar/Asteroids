@@ -23,6 +23,10 @@ function Update () {
 
 	speed = 5;
 	
+	if (Input.GetKeyDown(KeyCode.Escape))
+	{
+		Application.LoadLevel(0);
+	}
 	
 	if (Input.GetKeyDown(KeyCode.L))
 	{
